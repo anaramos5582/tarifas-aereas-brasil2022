@@ -5,5 +5,7 @@ O dashboard interativo nos mostra a possibilidade de escolher uma cidade de orig
 
 O gráfico trás ainda os 15 trechos com assentos mais vendidos no ano em referência, independente de companhia aérea.
 
+![Tarefas Aéreas Brasileiras 2022](https://github.com/anaramos5582/tarifas-aereas-brasil2022/blob/main/AnaliseTarifasAereas_image.jpg?raw=true)
+
 ## Fonte de Dados
 Site da ANAC: https://www.anac.gov.br/acesso-a-informacao/dados-abertos/areas-de-atuacao/todos-os-dados-abertos
